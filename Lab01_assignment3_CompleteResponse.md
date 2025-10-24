@@ -133,5 +133,3 @@ The two false color composites provide complementary information:
 Both false color composites effectively highlight vegetation but serve different analytical purposes in remote sensing applications. The red vegetation composite is ideal for general vegetation monitoring, while the yellow vegetation composite provides more detailed information about vegetation stress and moisture content. These techniques are fundamental tools in remote sensing for environmental monitoring, agricultural assessment, and land cover analysis.
 
 ---
-
-**Note**: This analysis should be accompanied by screenshots taken in QGIS showing the actual visual results of each false color composite implementation.

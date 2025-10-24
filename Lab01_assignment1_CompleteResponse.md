@@ -1,6 +1,6 @@
 # Assignment 1: Landsat-8 Data Analysis
-**Student Name**: [Your Name]  
-**Date**: [Current Date]  
+**Student Name**: Elijah Manwill  
+**Date**: 10/24/2025  
 **Course**: GeoAI Remote Sensing Lab 1
 
 ## Data Overview

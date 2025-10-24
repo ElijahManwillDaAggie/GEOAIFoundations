@@ -26,6 +26,11 @@ The script automatically processes two Landsat-5 images to calculate SAVI (Soil 
 - Proper file naming: `{ImageName}_{Index}.TIF`
 - QGIS-ready GeoTIFF format
 
+<img src="images/SAVI_rasterimage.png">
+
+<img src="images/NDSI_rasterimage.png">
+
+
 ---
 
 ## Assignment 2: DN Matching for Radiometric Correction
@@ -58,37 +63,7 @@ Performs radiometric correction between two Landsat-5 images using DN (Digital N
 - Comparison visualization with stable area markers
 - Statistical analysis of correction parameters
 
----
-
-## Screenshots and Visual Results
-
-### Assignment 1: Spectral Indices
-*Upload your QGIS screenshots here showing:*
-- [ ] SAVI results for both images
-- [ ] NDSI results for both images
-- [ ] Comparison between different spectral indices
-
-**Screenshot 1: SAVI Results**
-![SAVI Results](screenshots/savi_results.png)
-*Caption: SAVI (Soil Adjusted Vegetation Index) results showing vegetation health. Higher values (brighter) indicate healthier vegetation.*
-
-**Screenshot 2: NDSI Results**
-![NDSI Results](screenshots/ndsi_results.png)
-*Caption: NDSI (Normalized Difference Snow Index) results showing snow/ice detection. Higher values indicate snow/ice presence.*
-
-### Assignment 2: DN Matching Results
-*Upload your QGIS screenshots here showing:*
-- [ ] Original vs corrected images comparison
-- [ ] Stable area locations (dark and bright regions)
-- [ ] Statistical analysis of correction parameters
-
-**Screenshot 3: DN Matching Comparison**
-![DN Matching Comparison](screenshots/dn_matching_comparison.png)
-*Caption: Comparison showing original (top) vs corrected (bottom) images. Red rectangles show dark stable areas, blue rectangles show bright stable areas.*
-
-**Screenshot 4: QGIS Analysis**
-![QGIS Analysis](screenshots/qgis_analysis.png)
-*Caption: QGIS analysis showing the corrected images with proper georeferencing and comparison between reference and target images.*
+<img src="images/DN_comparison.png">
 
 ---
 

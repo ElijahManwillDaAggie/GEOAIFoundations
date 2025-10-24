@@ -1,6 +1,6 @@
 # Assignment 3: False Color Composite Analysis
-**Student Name**: [Your Name]  
-**Date**: [Current Date]  
+**Student Name**: Elijah Manwill  
+**Date**: 10/24/2025  
 **Course**: GeoAI Remote Sensing Lab 1
 
 ## Assignment Overview
@@ -15,6 +15,9 @@ This assignment demonstrates the use of false color composites in QGIS to visual
 - **Software**: QGIS for visualization and composite creation
 
 ## False Color Composite 1: Vegetation Appears Red
+
+<img src="images/false_color_comp_red.png">
+
 
 ### Band Assignment
 - **Red Channel**: Band 5 (Near Infrared, 0.85-0.88 μm)
@@ -37,6 +40,8 @@ This is the classic "False Color Infrared" composite (NIR-Red-Green). Healthy ve
 - Wetland delineation
 
 ## False Color Composite 2: Vegetation Appears Yellow
+
+<img src="images/false_color_comp_yellow.png">
 
 ### Band Assignment
 - **Red Channel**: Band 6 (SWIR1, 1.57-1.65 μm)

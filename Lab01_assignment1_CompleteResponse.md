@@ -18,6 +18,9 @@ For this assignment, I downloaded a Landsat-8 image from the Louisiana/Mississip
 
 The downloaded Landsat-8 data contains the following files:
 
+<img src="images/landsat_file_folder.png">
+
+
 | File Type | Count | Description |
 |-----------|-------|-------------|
 | Band Files (.TIF) | 11 | Individual spectral bands (B1-B11) |

@@ -112,10 +112,3 @@ assignment_5/
     └── qgis_analysis.png
 ```
 
----
-
-## Next Steps for Submission:
-1. **Upload QGIS Screenshots**: Add your screenshots to the `screenshots/` folder
-2. **Update Captions**: Modify the screenshot captions with your specific observations
-3. **GitHub Push**: Commit and push the complete `assignment_5/` folder to your repository
-4. **Documentation**: Ensure all results are properly documented and visualized

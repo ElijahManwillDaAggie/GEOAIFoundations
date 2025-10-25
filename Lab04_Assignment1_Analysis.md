@@ -62,10 +62,10 @@ This approach would significantly improve the quality and representativeness of 
 
 ## Chipped Raster Images
 
-<img src="images/rf_prediction1">
+<img src="images/rf_prediction1.png">
 
-<img src="images/dt_prediction1">
+<img src="images/dt_prediction1.png">
 
-<img src="images/rf_prediction2">
+<img src="images/rf_prediction2.png">
 
-<img src="images/dt_prediction2">
+<img src="images/dt_prediction2.png">

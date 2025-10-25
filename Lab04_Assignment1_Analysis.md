@@ -59,3 +59,13 @@ Combine chipping with data augmentation techniques:
 4. **Phase 4**: Combine with data augmentation techniques
 
 This approach would significantly improve the quality and representativeness of the training data while maintaining computational efficiency.
+
+## Chipped Raster Images
+
+<img src="images/rf_prediction1">
+
+<img src="images/dt_prediction1">
+
+<img src="images/rf_prediction2">
+
+<img src="images/dt_prediction2">
